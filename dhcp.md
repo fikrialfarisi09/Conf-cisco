@@ -27,4 +27,7 @@ Configuration router
 
 # PC
 
-    
+For PC, you just click DHCP on the IP configuration and the IP will be filled in automatically.
+
+click pc -> click dekstop -> Ip configuration -> click DCHP
+
