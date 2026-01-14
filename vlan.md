@@ -5,7 +5,9 @@ ID VLAN = 100
 IP      = 192.168.1.1/24
 
 Router
+  
   ↓
+  
 Switch
   
   ↓
