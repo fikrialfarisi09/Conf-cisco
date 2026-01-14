@@ -1,12 +1,17 @@
 # VLAN configuration in routers and switches using Cisco Packet Tracer
 
 ID VLAN = 100
-    IP  = 192.168.1.1/24
+
+IP      = 192.168.1.1/24
 
 Router
+
   ↓
+  
 Switch
+  
   ↓
+  
   PC
 
 # Router
