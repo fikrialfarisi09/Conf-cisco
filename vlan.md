@@ -43,5 +43,7 @@ For PC, you just enter the IP address.
 click pc -> click dekstop -> Ip configuration
 
 IPV4 address    = 192.168.1.2
+
 Subnet Mask     = 255.255.255.0
+
 default gateway = 192.168.1.1
